@@ -1,0 +1,6 @@
+*  Put the keycodes (anything after "KC_") for each tap and hold in this file
+*  One TAP, HOLD pair per line, separated by a comma
+*  The script will alphabetize them by tap keycode, so order does not matter here
+*  
+*  NOTE: this program will not check for valid QMK keycodes
+*  See the QMK docs for valid keycodes: https://docs.qmk.fm/#/keycodes
